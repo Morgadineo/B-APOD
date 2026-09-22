@@ -56,29 +56,29 @@ Clique no botão **Fork** no canto superior direito deste repositório e, em seg
 
 🐧 Método 2: Terminal Manual no Linux
 
-  # 1. Criar o ambiente virtual
+  ##### 1. Criar o ambiente virtual
   `python3 -m venv venv`
   
-  # 2. Ativar o ambiente virtual
+  ##### 2. Ativar o ambiente virtual
   `source venv/bin/activate`
   
-  # 3. Instalar as dependências
+  ##### 3. Instalar as dependências
   `pip install discord-py requests python-dotenv`
 
 🪟 Método 3: Terminal Manual no Windows
-  # 1. Criar o ambiente virtual
+  ##### 1. Criar o ambiente virtual
   `python -m venv venv`
 
-  # 2. Ativar o ambiente virtual (Prompt de Comando - CMD)
+  ##### 2. Ativar o ambiente virtual (Prompt de Comando - CMD)
   `venv\Scripts\activate`
 
   Ou ativar via PowerShell:
   `.\venv\Scripts\Activate.ps1`
 
-  # 3. Instalar as dependências
+  ##### 3. Instalar as dependências
   `pip install discord-py requests python-dotenv`
 
-# 3. Configure as Variáveis de Ambiente
+### 3. Configure as Variáveis de Ambiente
 
 Crie um arquivo chamado .env na raiz do projeto (no mesmo nível do main.py) e adicione as suas chaves:
 
@@ -87,5 +87,7 @@ DISCORD_TOKEN=SEU_TOKEN_DO_BOT_DISCORD
 
 *💡 Nota: Obtenha sua chave gratuita em api.nasa.gov. Para testes rápidos, você pode usar DEMO_KEY.*
 
-# 4. PRONTO!
+## 4. PRONTO!
+
+Caso tenham qualquer dúvida, estou sempre a disposição!
 
