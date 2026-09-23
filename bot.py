@@ -1,3 +1,13 @@
+# ================================================================= #
+# -- Código Completo --
+# ---------------------
+# Só abra este arquivo caso já tenha implementado seu próprio Bot.
+#
+# Utilize o arquivo example.py como base.
+# 
+# Se abrir, terá spoiler de como resolver e não valerá o exercício.
+# ================================================================= #
+
 import os
 import time
 import discord
