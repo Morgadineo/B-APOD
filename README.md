@@ -87,7 +87,11 @@ DISCORD_TOKEN=SEU_TOKEN_DO_BOT_DISCORD
 
 *💡 Nota: Obtenha sua chave gratuita em api.nasa.gov. Para testes rápidos, você pode usar DEMO_KEY.*
 
-## 4. PRONTO!
+## 4. SEM COLAR!
+
+O arquivo bot.py é o "gabarito". Evitem espiar.
+
+## 5. Praticar!
 
 Caso tenham qualquer dúvida, estou sempre a disposição!
 
