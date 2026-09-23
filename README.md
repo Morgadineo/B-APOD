@@ -80,7 +80,7 @@ Clique no botão **Fork** no canto superior direito deste repositório e, em seg
 
 ### 3. Configure as Variáveis de Ambiente
 
-Crie um arquivo chamado .env na raiz do projeto (no mesmo nível do main.py) e adicione as suas chaves:
+Utilize o arquivo chamado .env na raiz do projeto (no mesmo nível do main.py) e adicione as suas chaves nos templates:
 
 NASA_API_KEY=SUA_CHAVE_NASA_AQUI
 DISCORD_TOKEN=SEU_TOKEN_DO_BOT_DISCORD
